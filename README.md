@@ -3,7 +3,7 @@ the goal is to understand webrtc str0m implementation, do some testing codes and
 after have the base to migrate from webrtc-rs to str0m on libp2p.
 
 ## ToDo
-- [ ] Fix issues on the example code
+- [x] Fix issues on the example code
 - [ ] Build test on ipfs ping over webrtc
 - [ ] build test on ipfs ping over webrtc-browers
 - [ ] understand Strom and verify implementation in libp2p
